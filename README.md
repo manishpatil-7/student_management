@@ -1,2 +1,2 @@
 # student_management
-This is IOT based project
+This is java based project
